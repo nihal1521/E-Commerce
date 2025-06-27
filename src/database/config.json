@@ -1,0 +1,22 @@
+{
+  "name": "EcommerceDB",
+  "version": "1.0.0",
+  "lastUpdated": "2025-06-27T00:00:00.000Z",
+  "collections": [
+    "products",
+    "categories",
+    "users",
+    "orders",
+    "inventory",
+    "reviews",
+    "analytics",
+    "payments"
+  ],
+  "indexes": {
+    "products": ["category", "price", "isNew", "isBestSeller"],
+    "users": ["email", "role"],
+    "orders": ["userId", "status", "createdAt"],
+    "reviews": ["productId", "userId", "rating"],
+    "analytics": ["eventType", "productId", "timestamp"]
+  }
+}
