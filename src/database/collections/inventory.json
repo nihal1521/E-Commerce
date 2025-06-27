@@ -1,0 +1,50 @@
+[
+  {
+    "id": "inv_1",
+    "productId": "1",
+    "quantity": 50,
+    "reservedQuantity": 5,
+    "lastUpdated": "2025-06-27T00:00:00.000Z",
+    "location": "Warehouse A"
+  },
+  {
+    "id": "inv_2",
+    "productId": "2",
+    "quantity": 75,
+    "reservedQuantity": 3,
+    "lastUpdated": "2025-06-25T00:00:00.000Z",
+    "location": "Warehouse A"
+  },
+  {
+    "id": "inv_3",
+    "productId": "3",
+    "quantity": 100,
+    "reservedQuantity": 8,
+    "lastUpdated": "2025-06-27T00:00:00.000Z",
+    "location": "Warehouse B"
+  },
+  {
+    "id": "inv_4",
+    "productId": "4",
+    "quantity": 25,
+    "reservedQuantity": 2,
+    "lastUpdated": "2025-06-20T00:00:00.000Z",
+    "location": "Warehouse A"
+  },
+  {
+    "id": "inv_5",
+    "productId": "5",
+    "quantity": 60,
+    "reservedQuantity": 4,
+    "lastUpdated": "2025-06-27T00:00:00.000Z",
+    "location": "Warehouse C"
+  },
+  {
+    "id": "inv_6",
+    "productId": "6",
+    "quantity": 15,
+    "reservedQuantity": 3,
+    "lastUpdated": "2025-06-25T00:00:00.000Z",
+    "location": "Warehouse A"
+  }
+]

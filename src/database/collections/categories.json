@@ -1,0 +1,46 @@
+[
+  {
+    "id": "1",
+    "name": "Keychains",
+    "slug": "keychains",
+    "image": "https://images.pexels.com/photos/6249362/pexels-photo-6249362.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "description": "Stylish keychains to accessorize your keys",
+    "productCount": 15,
+    "isActive": true,
+    "createdAt": "2025-01-01T00:00:00.000Z",
+    "updatedAt": "2025-06-27T00:00:00.000Z"
+  },
+  {
+    "id": "2",
+    "name": "Wrist Keychains",
+    "slug": "wrist-keychains",
+    "image": "https://images.pexels.com/photos/5442464/pexels-photo-5442464.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "description": "Convenient wrist keychains for hands-free carrying",
+    "productCount": 8,
+    "isActive": true,
+    "createdAt": "2025-01-01T00:00:00.000Z",
+    "updatedAt": "2025-06-27T00:00:00.000Z"
+  },
+  {
+    "id": "3",
+    "name": "Hair Accessories",
+    "slug": "hair-accessories",
+    "image": "https://images.pexels.com/photos/6663331/pexels-photo-6663331.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "description": "Beautiful hair accessories for every style",
+    "productCount": 22,
+    "isActive": true,
+    "createdAt": "2025-01-01T00:00:00.000Z",
+    "updatedAt": "2025-06-27T00:00:00.000Z"
+  },
+  {
+    "id": "4",
+    "name": "Handbags",
+    "slug": "handbags",
+    "image": "/WhatsApp Image 2025-06-24 at 19.51.59_2edd5ace.jpg",
+    "description": "Elegant handcrafted handbags for the modern woman",
+    "productCount": 12,
+    "isActive": true,
+    "createdAt": "2025-01-01T00:00:00.000Z",
+    "updatedAt": "2025-06-27T00:00:00.000Z"
+  }
+]
